@@ -1,0 +1,21 @@
+{
+  "name": "DalinDoc",
+  "version": "0.0.1",
+  "description": "Documentation for DaLin project.",
+  "main": "index.js",
+  "authors": {
+    "name": "Jirka Zejda",
+    "email": "me@jirizejda.cz"
+  },
+  "repository": "https://github.com/jZejda/dalin-doc.git/DalinDoc",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.3.1",
+    "@vuepress/plugin-back-to-top": "^1.3.1",
+    "@vuepress/plugin-medium-zoom": "^1.3.1"
+  }
+}
