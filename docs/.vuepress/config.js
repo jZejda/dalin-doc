@@ -34,8 +34,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Pro uživatele',
+        link: '/prirucka-uzivatele/',
       },
       {
         text: 'Config',
@@ -47,13 +47,17 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/prirucka-uzivatele/': [
         {
-          title: 'Guide',
+          title: 'Pro uživatele',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'muj-ucet',
+            'prihlaseni',
+            'prostredi-administrace',
+            'uzivatele',
+            'redaktor',
           ]
         }
       ],
