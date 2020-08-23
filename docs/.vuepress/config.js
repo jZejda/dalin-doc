@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'DaLin',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -38,29 +38,46 @@ module.exports = {
         link: '/prirucka-uzivatele/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Pro vývoj',
+        link: '/prirucka-vyvojare/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'O projektu',
+        link: '/o-projektu/'
+      },
+      {
+        text: 'ABM stránky',
+        link: 'https://abmbrno.cz'
       }
     ],
+
     sidebar: {
       '/prirucka-uzivatele/': [
-        {
-          title: 'Pro uživatele',
-          collapsable: false,
-          children: [
-            '',
-            'muj-ucet',
-            'prihlaseni',
-            'prostredi-administrace',
-            'uzivatele',
-            'redaktor',
-          ]
-        }
+        '',
+        'prostredi-administrace',
+        'prihlaseni',
+        'muj-ucet',
+        'uzivatele',
+        'redaktor',
       ],
+
+      '/prirucka-vyvojare/': [
+        '',
+        'popis-prostredi',
+        'vyvojove-prostredi',
+      ],
+
+      '/o-projektu/': [
+        '',
+        'pruvodce-aktualizaci',
+      ],
+
+      // fallback
+      '/': [
+        '',        /* / */
+        'contact', /* /contact.html */
+        'about'    /* /about.html */
+      ]
     }
   },
 

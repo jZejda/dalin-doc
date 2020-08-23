@@ -8,6 +8,11 @@ sidebarDepth: 2
 
 ---
 
+## Verze 7.1.0
+
+Přešel jsem na verzování hlavní větve podle verze Laravelu. Bude to pro všechny více srozumitelné.
+Projekt se pestěhoval zpět na GitHub.
+
 ## Verze 2.2.1
 Release - 20.09.2019
 

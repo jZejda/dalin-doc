@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b07c5be-7d30-4f84-b3dd-2f2ee5b5cbf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/o-projektu/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/pruvodce-aktualizaci.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/o-projektu/pruvodce-aktualizaci.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/using-vue.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597951728746</updated>
-      <workItem from="1597951729838" duration="1675000" />
+      <workItem from="1597951729838" duration="2054000" />
+      <workItem from="1598214746940" duration="2067000" />
     </task>
     <servers />
   </component>
@@ -43,21 +50,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1597951898159">
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1597953784895">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1597951898159" />
-    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1597951898159">
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1597953784895" />
+    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1597953784895">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.center/0.27.1920.1001@0.27.1920.1001" timestamp="1597951898159" />
-    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1597951898158">
+    <state width="1874" height="258" key="GridCell.Tab.0.center/0.27.1920.1001@0.27.1920.1001" timestamp="1597953784895" />
+    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1597953784895">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.left/0.27.1920.1001@0.27.1920.1001" timestamp="1597951898158" />
-    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1597951898159">
+    <state width="1874" height="258" key="GridCell.Tab.0.left/0.27.1920.1001@0.27.1920.1001" timestamp="1597953784895" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1597953784895">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="258" key="GridCell.Tab.0.right/0.27.1920.1001@0.27.1920.1001" timestamp="1597951898159" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right/0.27.1920.1001@0.27.1920.1001" timestamp="1597953784895" />
   </component>
 </project>
