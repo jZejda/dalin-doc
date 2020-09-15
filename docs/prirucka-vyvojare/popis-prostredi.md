@@ -28,9 +28,12 @@ Knihovny používané nad rámec Laravel frameworku, najdeš je v `./composer.js
 ### JavaScrip knihovny
 Knihovny používané nad výchozí [Laravel Mix](https://laravel.com/docs/5.7/mix) najdeš v `./package.json`
 * **tilwindcss** - CSS Framework
+* **moment** - manipulace s časem datumem [Dokumentace](https://momentjs.com/)
 * **vuejs** - JavaScriptový framework
   * **vue-toasted** - Flash Messages pro vue.js [GitHub + dokumentace](https://github.com/shakee93/vue-toasted)
   * **vue-js-dropdown** - tool tip, dropdown menu[ Dokumentace ](http://vue-js-dropdown.yev.io/)
-  * **vue-datetime** - doplnění data a času [Dokumentace](https://www.npmjs.com/package/vue-datetime) - aktu8lě pouze na backendu
+  * **vue-datetime** - doplnění data a času [Dokumentace](https://www.npmjs.com/package/vue-datetime) - aktuálně pouze na backendu
+  * **vue-moment** - manipulace s datem [Dokumentace](https://www.npmjs.com/package/vue-moment)
+  * **vue-password-strength-meter** - ukazatel síly hesla [Dokumentace](https://www.npmjs.com/package/vue-password-strength-meter)
 * **tynimce** - WYSIWYG HTML Editor
 * **tilwindcss** - CSS Framework

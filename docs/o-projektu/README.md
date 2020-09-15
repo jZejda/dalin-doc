@@ -8,6 +8,11 @@ sidebarDepth: 2
 
 ---
 
+DidNotFinish
+NotCompeting
+MissingPunch
+
+
 ## Verze 7.1.0
 
 Přešel jsem na verzování hlavní větve podle verze Laravelu. Bude to pro všechny více srozumitelné.
